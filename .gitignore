@@ -1,0 +1,17 @@
+# Decompiled APK directories (regenerated via apktool)
+base/
+over/
+
+# Apktool build caches inside decompiled directories
+**/build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS & editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
